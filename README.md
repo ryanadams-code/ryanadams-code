@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=40\&pause=100\&color=00C503\&center=true\&vCenter=true\&random=false\&width=746\&height=70\&lines=Hi+there%F0%9F%91%8B!;My+name+is+Ryan+Adam;I'm+a+Cloud+And+Network+Infrastructure+Enthusiast;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&size=40\&pause=100\&color=00C503\&center=true\&vCenter=true\&random=false\&width=746\&height=70\&lines=Hi+there%F0%9F%91%8B!;My+name+is+Ryan+Adam;I'm+Cloud+And+Network+Infrastructure+Enthusiast;)](https://git.io/typing-svg)
 
 ---
 
