@@ -16,7 +16,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Ryanadams-code\&theme=gotham\&hide_border=false\&include_all_commits=true)
+![](https://github-readme-stats.vercel.app/api?username=ryanadams-code\&theme=gotham\&hide_border=false\&include_all_commits=true)
 
 ---
 
