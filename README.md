@@ -20,7 +20,7 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Ryanadams-code\&icon=0\&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ryanadams-code\&icon=0\&color=0)](https://visitcount.itsvg.in)
 
 ---
 
